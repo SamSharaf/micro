@@ -1,0 +1,9 @@
+/**/nbproject/
+/**/nb-configuration.xml
+/**/.settings
+/**/.classpath
+/**/.project
+/**/target
+/RemoteSystemsTempFiles
+.idea
+*.iml
